@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 					fixed: true,
 		},
 		banner: {
-					enable: false,
+					enable: true,
 					src: "assets/images/demo-banner.png",
 					position: "center",
 					credit: {
@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 		avatar: "assets/images/demo-avatar.png",
 		name: "さっちゃん",
-		bio: "家計管理が苦手な主婦が4コマ漫画でお金のことをゆる〜く発信中🌿",
+		bio: "家計管理が苦手なわたしの4コマ漫画。お金のことをゆる〜く発信中🌿",
 		links: [],
 };
 
