@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-		title: "ゆるっと家計ノート",
-		subtitle: "家計管理4コマ漫画ブログ",
+		title: "ゆるっと家計管理",
+		subtitle: "楽しく4コマブログ",
 		lang: "ja",
 		themeColor: {
 					hue: 170, // ミントグリーン
